@@ -1,0 +1,248 @@
+.div15 {
+  position: absolute;
+  top: 1010px;
+  left: 25px;
+  font-size: var(--font-size-9xl);
+  line-height: 34px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-source-serif-pro);
+  color: var(--color-burlywood);
+}
+.span14 {
+  white-space: pre-wrap;
+}
+.span15 {
+  color: var(--color-gray-200);
+}
+.div16 {
+  position: absolute;
+  top: 957px;
+  left: 25px;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightgray);
+}
+.iphone-14-pro-max-4-child {
+  position: absolute;
+  top: 982px;
+  left: 22px;
+  border-top: 3px solid var(--color-burlywood);
+  box-sizing: border-box;
+  width: 245px;
+  height: 6px;
+}
+.iphone-14-pro-max-4-inner,
+.iphone-14-pro-max-4-item {
+  position: absolute;
+  top: 1132px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 430px;
+  height: 879px;
+}
+.iphone-14-pro-max-4-inner {
+  top: 2011px;
+  background-color: var(--color-gray-100);
+  height: 819px;
+}
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.span17 {
+  font-family: var(--font-urw-geometric);
+}
+.span16 {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+}
+.div17 {
+  position: absolute;
+  bottom: 459px;
+  left: 25px;
+  line-height: 24px;
+  display: inline-block;
+  width: 381px;
+  color: var(--color-seagreen);
+}
+.b {
+  white-space: pre-wrap;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+}
+.digi-go {
+  margin: 0;
+}
+.ipo-container {
+  position: absolute;
+  top: 1157px;
+  left: 25px;
+  line-height: 24px;
+  display: inline-block;
+  width: 381px;
+  color: var(--color-seagreen);
+}
+.component-26-6,
+.component-26-7 {
+  position: absolute;
+  bottom: 210px;
+  left: 274px;
+  width: 56px;
+  height: 56px;
+}
+.component-26-7 {
+  left: 85px;
+}
+.iphone-14-pro-max-4-child1 {
+  position: absolute;
+  top: 2986px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 430px;
+  height: 160px;
+}
+.div18 {
+  position: absolute;
+  bottom: 114px;
+  left: 47px;
+  font-size: var(--font-size-base);
+  white-space: pre-wrap;
+  text-align: center;
+}
+.component-8-10,
+.component-9-10 {
+  position: absolute;
+  bottom: 36px;
+  left: 113px;
+  width: 24px;
+  height: 24px;
+}
+.component-9-10 {
+  left: 149px;
+}
+.component-10-10,
+.component-11-10,
+.component-12-10,
+.component-13-10 {
+  position: absolute;
+  bottom: 36px;
+  left: 185px;
+  width: 24px;
+  height: 24px;
+}
+.component-11-10,
+.component-12-10,
+.component-13-10 {
+  left: 221px;
+}
+.component-12-10,
+.component-13-10 {
+  left: 257px;
+}
+.component-13-10 {
+  left: 293px;
+}
+.span23 {
+  text-transform: uppercase;
+}
+.div19 {
+  position: absolute;
+  right: 4px;
+  bottom: 341px;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  color: var(--color-gray-300);
+}
+.group-icon {
+  position: absolute;
+  right: 25.03px;
+  bottom: 426.13px;
+  width: 238.6px;
+  height: 35.2px;
+}
+.bg-icon,
+.iphone-14-pro-max-4-child2 {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  width: 430px;
+  height: 812px;
+}
+.bg-icon {
+  object-fit: cover;
+}
+.iphone-14-pro-max-4-child2 {
+  background-color: var(--color-seagreen);
+  mix-blend-mode: multiply;
+}
+.copy-2-icon {
+  position: absolute;
+  top: 418px;
+  left: 0;
+  width: 430px;
+  height: 514px;
+  object-fit: cover;
+}
+.in-the-face {
+  position: absolute;
+  top: 194.75px;
+  right: 24px;
+  font-size: var(--font-size-7xl);
+  line-height: 32px;
+  display: inline-block;
+  width: 331px;
+}
+.iphone-14-pro-max-4-child3 {
+  position: absolute;
+  top: 170px;
+  left: 25px;
+  width: 50px;
+  height: 25px;
+}
+.b4,
+.div20 {
+  position: absolute;
+  left: 25px;
+  line-height: 14px;
+}
+.b4 {
+  top: 831px;
+  text-transform: uppercase;
+}
+.div20 {
+  top: 861px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.logo-mon-icon1 {
+  position: absolute;
+  top: 16.24px;
+  left: 142.73px;
+  width: 144.5px;
+  height: 27.5px;
+}
+.iphone-14-pro-max-4-child4 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 430px;
+  height: 60px;
+}
+.component-25-4 {
+  position: absolute;
+  top: 83px;
+  right: 23.5px;
+  width: 26.5px;
+  height: 15.5px;
+}
+.iphone-14-pro-max-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3146px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-urw-geometric);
+}
